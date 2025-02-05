@@ -1,0 +1,27 @@
+25-02-05 12:40 Session started
+----------------------------------------
+12:50:17 000:000 > a
+12:50:17 000:001 > ar
+12:50:17 000:002 > arb
+12:50:17 000:003 > arbe
+12:50:17 000:004 > arbet
+12:50:18 000:005 > arbeta
+12:50:18 000:006 > arbetat
+12:50:19 000:008 > arbetat m
+12:50:19 000:009 > arbetat me
+12:50:19 000:010 > arbetat med
+12:50:20 000:012 > arbetat med f
+12:50:20 000:013 > arbetat med fö
+12:50:20 000:014 > arbetat med fön
+12:50:20 000:015 > arbetat med föns
+12:50:20 000:016 > arbetat med fönst
+12:50:21 000:017 > arbetat med fönste
+12:50:21 000:018 > arbetat med fönster
+12:50:21 000:019 > arbetat med fönsterb
+12:50:22 000:019 > arbetat med fönsterbp
+12:50:22 000:020 > arbetat med fönsterbpr
+12:50:22 000:021 > arbetat med fönsterbpro
+12:50:22 000:022 > arbetat med fönsterbprog
+12:50:22 000:023 > arbetat med fönsterbprogr
+12:50:22 000:024 > arbetat med fönsterbprogra
+12:50:23 000:025 > arbetat med fönsterbprogram
