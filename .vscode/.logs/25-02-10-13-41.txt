@@ -1,0 +1,4 @@
+25-02-10 13:41 Session started
+----------------------------------------
+13:43:08 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\AreaApp
+----------------------------------------

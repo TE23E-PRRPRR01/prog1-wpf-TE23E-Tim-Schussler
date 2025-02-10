@@ -1,0 +1,32 @@
+25-02-10 14:58 Session started
+----------------------------------------
+14:58:09 000:002 > ä
+14:58:09 000:003 > än
+14:58:09 000:004 > äna
+14:58:09 000:005 > änat
+14:58:10 000:007 > änat p
+14:58:10 000:008 > änat på
+14:58:13 000:010 > änat på e
+14:58:14 000:011 > änat på ev
+14:58:14 000:012 > änat på eve
+14:58:15 000:013 > änat på even
+14:58:15 000:014 > änat på event
+14:58:15 000:016 > änat på event o
+14:58:16 000:017 > änat på event oc
+14:58:16 000:018 > änat på event och
+14:58:16 000:020 > änat på event och n
+14:58:17 000:021 > änat på event och na
+14:58:20 000:010 > änat på event och naE
+14:58:20 000:011 > änat på event och naED
+14:58:21 000:012 > änat på event och naEDv
+14:58:21 000:011 > änat på event och naEDvv
+14:58:21 000:012 > änat på event och naEDvve
+14:58:22 000:013 > änat på event och naEDvven
+14:58:22 000:014 > änat på event och naEDvvent
+14:58:22 000:016 > änat på event och naEDvvent o
+14:58:22 000:017 > änat på event och naEDvvent oc
+14:58:22 000:018 > änat på event och naEDvvent och
+14:58:23 000:020 > änat på event och naEDvvent och N
+14:58:23 000:021 > änat på event och naEDvvent och Na
+14:58:24 000:022 > änat på event och naEDvvent och Nam
+14:58:24 000:023 > änat på event och naEDvvent och Name
