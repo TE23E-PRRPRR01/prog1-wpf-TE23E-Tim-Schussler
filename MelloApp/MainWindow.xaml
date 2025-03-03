@@ -1,0 +1,27 @@
+﻿<Window x:Class="MelloApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MelloApp"
+        mc:Ignorable="d"
+        Title="MELOOOOOOOO" Height="450" Width="800" SizeToContent="WidthAndHeight">
+    <StackPanel Background="#000">
+        <Image Width="200" Source="bilder/Melodifestivalen_Logo.png"></Image>
+        <Label Margin="10" Padding="10" Foreground="#FFF" FontSize="24">RÖSTA PÅ DIN FAVVOLÅT!!!</Label>
+        <Button Name="red" Margin="10" Padding="10" FontWeight="Bold" Background="Red" Click="rösta" Foreground="#FFF">RÖD</Button>
+        <Button Name="blue" Margin="10" Padding="10" FontWeight="Bold" Background="Blue" Click="rösta" Foreground="#FFF">BLÅ</Button>
+        <Button Name="green" Margin="10" Padding="10" FontWeight="Bold" Background="Green" Click="rösta" Foreground="#FFF">GRÖN</Button>
+        <Button Name="yellow" Margin="10" Padding="10" FontWeight="Bold" Background="Yellow" Click="rösta" Foreground="#FFF">GUL</Button>
+        <Button Name="purple" Margin="10" Padding="10" FontWeight="Bold" Background="Purple" Click="rösta" Foreground="#FFF">Lila</Button>
+        
+
+
+        <Label Margin="10" Padding="10" Foreground="#FFF" FontSize="24">ANTAAAAAAAL RÖSTEEEEEEEEEER</Label>
+        
+        <TextBox Margin="10" Padding="10" Name="txbresultat"></TextBox>
+                <Button Margin="10" Padding="10" FontWeight="Bold" Background="Green" Click="reset" Foreground="#FFF">Nollstäl</Button>
+
+
+    </StackPanel>
+</Window>

@@ -1,0 +1,20 @@
+25-03-03 14:53 Session started
+----------------------------------------
+14:53:45 000:000 > H
+14:53:45 000:001 > HO
+14:53:46 000:001 > HOo
+14:53:47 000:002 > HOor
+14:53:47 000:003 > HOori
+14:53:47 000:004 > HOoris
+14:53:48 000:005 > HOoriso
+14:53:48 000:006 > HOorison
+14:53:48 000:007 > HOorisont
+14:53:48 000:008 > HOorisonte
+14:53:48 000:009 > HOorisontel
+14:53:49 000:010 > HOorisontell
+14:53:49 000:012 > HOorisontell l
+14:53:49 000:013 > HOorisontell la
+14:53:49 000:014 > HOorisontell lay
+14:53:50 000:015 > HOorisontell layo
+14:53:50 000:016 > HOorisontell layou
+14:53:50 000:017 > HOorisontell layout
