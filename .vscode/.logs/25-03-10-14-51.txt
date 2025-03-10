@@ -1,0 +1,58 @@
+25-03-10 14:51 Session started
+----------------------------------------
+14:51:42 000:000 > T
+14:51:42 000:001 > Tr
+14:51:42 000:002 > Trä
+14:51:42 000:003 > Trän
+14:51:43 000:005 > Tränat
+14:51:43 000:004 > Träna
+14:51:43 000:007 > Tränat p
+14:51:43 000:008 > Tränat på
+14:51:49 000:010 > Tränat på h
+14:51:49 000:011 > Tränat på ho
+14:51:50 000:012 > Tränat på hor
+14:51:50 000:013 > Tränat på hori
+14:51:51 000:014 > Tränat på horis
+14:51:51 000:015 > Tränat på horiso
+14:51:51 000:016 > Tränat på horison
+14:51:51 000:017 > Tränat på horisont
+14:51:51 000:018 > Tränat på horisonte
+14:51:51 000:019 > Tränat på horisontel
+14:51:52 000:020 > Tränat på horisontell
+14:51:52 000:022 > Tränat på horisontell l
+14:51:52 000:023 > Tränat på horisontell la
+14:51:52 000:024 > Tränat på horisontell lay
+14:51:52 000:025 > Tränat på horisontell layo
+14:51:53 000:026 > Tränat på horisontell layou
+14:51:53 000:027 > Tränat på horisontell layout
+14:51:53 000:029 > Tränat på horisontell layout o
+14:51:54 000:030 > Tränat på horisontell layout oc
+14:51:54 000:031 > Tränat på horisontell layout och
+14:51:54 000:033 > Tränat på horisontell layout och k
+14:51:55 000:034 > Tränat på horisontell layout och kn
+14:51:55 000:035 > Tränat på horisontell layout och kna
+14:51:55 000:036 > Tränat på horisontell layout och knap
+14:51:55 000:037 > Tränat på horisontell layout och knapp
+14:51:55 000:038 > Tränat på horisontell layout och knappa
+14:51:56 000:039 > Tränat på horisontell layout och knappar
+14:52:03 000:028 > Tränat på horisontell layout och knappar,
+14:52:07 000:038 > Tränat på horisontell layout och knappar,  o
+14:52:07 000:039 > Tränat på horisontell layout och knappar,  oc
+14:52:07 000:040 > Tränat på horisontell layout och knappar,  och
+14:52:08 000:042 > Tränat på horisontell layout och knappar,  och g
+14:52:08 000:043 > Tränat på horisontell layout och knappar,  och gl
+14:52:08 000:044 > Tränat på horisontell layout och knappar,  och glo
+14:52:08 000:045 > Tränat på horisontell layout och knappar,  och glob
+14:52:09 000:046 > Tränat på horisontell layout och knappar,  och globa
+14:52:09 000:047 > Tränat på horisontell layout och knappar,  och globab
+14:52:10 000:047 > Tränat på horisontell layout och knappar,  och globabl
+14:52:11 000:048 > Tränat på horisontell layout och knappar,  och globabla
+14:52:11 000:050 > Tränat på horisontell layout och knappar,  och globabla v
+14:52:11 000:051 > Tränat på horisontell layout och knappar,  och globabla va
+14:52:11 000:052 > Tränat på horisontell layout och knappar,  och globabla var
+14:52:12 000:053 > Tränat på horisontell layout och knappar,  och globabla vari
+14:52:12 000:054 > Tränat på horisontell layout och knappar,  och globabla varia
+14:52:12 000:055 > Tränat på horisontell layout och knappar,  och globabla variab
+14:52:12 000:056 > Tränat på horisontell layout och knappar,  och globabla variabl
+14:52:12 000:057 > Tränat på horisontell layout och knappar,  och globabla variable
+14:52:12 000:058 > Tränat på horisontell layout och knappar,  och globabla variabler
