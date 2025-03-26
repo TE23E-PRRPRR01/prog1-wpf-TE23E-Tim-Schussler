@@ -1,0 +1,4 @@
+25-03-24 13:43 Session started
+----------------------------------------
+13:43:59 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\.vscode\.logs\25-03-12-13-52.txt
+----------------------------------------

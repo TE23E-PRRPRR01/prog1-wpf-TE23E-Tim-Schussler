@@ -1,0 +1,86 @@
+25-03-19 13:57 Session started
+----------------------------------------
+13:57:13 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\BrannBollApp\MainWindow.xaml
+----------------------------------------
+13:57:20 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\BrannBollApp\MainWindow.xaml
+----------------------------------------
+14:00:17 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml
+----------------------------------------
+14:00:59 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\MelloApp\MainWindow.xaml
+----------------------------------------
+14:01:16 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\MainWindow.xaml
+----------------------------------------
+14:05:31 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\App.xaml.cs
+----------------------------------------
+14:05:32 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\EventApp.sln
+----------------------------------------
+14:05:34 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:07:00 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\AssemblyInfo.cs
+----------------------------------------
+14:07:01 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\App.xaml.cs
+----------------------------------------
+14:07:02 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:07:03 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\MainWindow.xaml
+----------------------------------------
+14:07:12 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:07:34 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml
+----------------------------------------
+14:07:38 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml.cs
+----------------------------------------
+14:07:43 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml
+----------------------------------------
+14:08:00 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml.cs
+----------------------------------------
+14:08:36 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\BrannBollApp\MainWindow.xaml
+----------------------------------------
+14:08:38 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\BrannBollApp\MainWindow.xaml.cs
+----------------------------------------
+14:09:01 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml.cs
+----------------------------------------
+14:09:02 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml
+----------------------------------------
+14:09:06 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml.cs
+----------------------------------------
+14:11:07 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\BrannBollApp\BrannBollApp.csproj
+----------------------------------------
+14:11:08 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\BrannBollApp\BrannBollApp.sln
+----------------------------------------
+14:11:09 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\BrannBollApp\MainWindow.xaml
+----------------------------------------
+14:11:10 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\BrannBollApp\MainWindow.xaml.cs
+----------------------------------------
+14:11:29 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\KlappApp\AssemblyInfo.cs
+----------------------------------------
+14:11:31 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\KlappApp\App.xaml
+----------------------------------------
+14:11:31 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\KlappApp\App.xaml.cs
+----------------------------------------
+14:11:33 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\KlappApp\MainWindow.xaml.cs
+----------------------------------------
+14:19:32 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\KlappApp\KlappApp.sln
+----------------------------------------
+14:19:33 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\KlappApp\MainWindow.xaml.cs
+----------------------------------------
+14:19:34 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\KlappApp\MainWindow.xaml
+----------------------------------------
+14:19:41 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\MainWindow.xaml
+----------------------------------------
+14:19:43 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:19:44 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\MainWindow.xaml
+----------------------------------------
+14:19:47 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml
+----------------------------------------
+14:19:51 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\BrannBollApp\MainWindow.xaml
+----------------------------------------
+14:20:03 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml
+----------------------------------------
+14:20:09 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\BrannBollApp\MainWindow.xaml
+----------------------------------------
+14:20:14 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml
+----------------------------------------
+14:27:48 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\AssemblyInfo.cs
+----------------------------------------

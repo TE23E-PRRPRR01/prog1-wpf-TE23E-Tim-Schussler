@@ -1,0 +1,6 @@
+25-03-10 19:03 Session started
+----------------------------------------
+19:03:30 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EventApp\MainWindow.xaml
+----------------------------------------
+19:03:37 Document switched to: c:\Users\tim.schussler\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Tim-Schussler\EpostApp\MainWindow.xaml
+----------------------------------------
